@@ -1,0 +1,14 @@
+.input-email {
+    border: none;
+
+}
+
+.email-place {
+    border: 1px solid black;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+
+}
+

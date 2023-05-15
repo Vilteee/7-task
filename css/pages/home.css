@@ -8,8 +8,11 @@
 @import '../3rd-party/font-awesome.min.css';
 
 
+
 /* components */
 @import '../components/button.css';
+@import '../components/input.css';
+@import '../components/logo.css';
 
 
 
